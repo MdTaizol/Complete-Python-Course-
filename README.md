@@ -1,2 +1,2 @@
 # Complete-Python-Course-
-its beginner to addvance level,with some project.
+its beginner to advance level,with some project.
